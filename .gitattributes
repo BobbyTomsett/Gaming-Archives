@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+clips/Payday[[:space:]]2/Achievements/Dr[[:space:]]Evil.mp4 filter=lfs diff=lfs merge=lfs -text
+clips/Payday[[:space:]]2/Highlights/NOBODY[[:space:]]MESSES[[:space:]]WITH[[:space:]]MY[[:space:]]GOATS.mp4 filter=lfs diff=lfs merge=lfs -text
